@@ -1,5 +1,4 @@
 
-
 const numbersList = document.getElementById('numbers-list');
 
 let elements = '';
@@ -17,3 +16,5 @@ for (let i = 1; i <=100; i++){
 }
 
 numbersList.innerHTML = elements;
+
+
